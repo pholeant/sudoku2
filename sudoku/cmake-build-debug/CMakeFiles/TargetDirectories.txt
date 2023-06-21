@@ -1,0 +1,3 @@
+D:/456/OOP/sudoku/cmake-build-debug/CMakeFiles/sudoku.dir
+D:/456/OOP/sudoku/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/456/OOP/sudoku/cmake-build-debug/CMakeFiles/rebuild_cache.dir
